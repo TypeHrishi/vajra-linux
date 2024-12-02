@@ -186,9 +186,21 @@ button {
     cursor: pointer;
 }
 
-.shri{
-    display: block;
-    margin-left: 650px;
-    margin-right: auto;
-    height: 25px;
+
+/* Font Import */
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;700&family=Noto+Sans+Devanagari:wght@300;400;700&display=swap');
+
+/* Styling for First Header */
+#first-header {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 0;
+}
+
+#first-header #shree-symbol {
+    font-family: 'Noto Sans Devanagari', sans-serif;
+    font-size: 1.2em;
+    margin-bottom: 10px;
 }
