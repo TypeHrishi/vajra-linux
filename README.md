@@ -1,5 +1,5 @@
 A linux distro crafted in Bharat!
-Please finf the documentation files from this github page!
+Please find the documentation files from this github page!
 ## Overview
 **Vajra Linux** is a lightweight, powerful, and customizable Linux distribution designed to provide exceptional performance and versatility. Inspired by the strength and brilliance of the "Vajra," a symbol of resilience in Indian culture, this open-source project aims to deliver a seamless computing experience tailored for modern users while being deeply rooted in accessibility and simplicity.
 
